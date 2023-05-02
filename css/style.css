@@ -22,3 +22,9 @@ body{
 .head{
     color: #aaaaaa;
 }
+@media (max-width: 768px) { 
+    .box{   
+        margin-top: 50% !important;
+        width: 80% !important;
+    }
+}
